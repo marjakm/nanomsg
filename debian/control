@@ -6,7 +6,7 @@ Standards-Version: 3.9.5
 Build-Depends: debhelper (>= 9), dh-autoreconf
 
 Package: libnanomsg0
-Architecture: amd64
+Architecture: amd64 armhf
 Depends: ${shlibs:Depends}, ${misc:Depends},
 Description: This is package for libnanomsg
  The following package contains libnanomsg
