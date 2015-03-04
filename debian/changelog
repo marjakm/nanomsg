@@ -1,3 +1,9 @@
+libnanomsg (0.5-ubuntu2) utopic; urgency=medium
+
+  * New version for utopic
+
+ --  <mattis@testloom>  Wed, 04 Mar 2015 16:19:43 +0200
+
 libnanomsg (0.5-0ubuntu1) trusty; urgency=low
 
   * Initial debian package.
